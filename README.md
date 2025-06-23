@@ -1,16 +1,20 @@
 # e_comm
 
-A new Flutter project.
+E-COMMERCE SALES APPLICATION USING FLUTTER AND FIREBASE
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Description
+This project is an online e-commerce sales application that allows users to search, buy, pay for products. Admin can manage products, prices and orders.
+## Features
+- User:
++ Login, register (email confirm)
++ View product list
++ Buy product
++ Payment
++ Product review
+Admin:
++ Add, edit, delete product
++ Manage user
++ Add product category
+## Tech Stack
+- Frontend and Backend: Dart (Flutter)
+- Database: Firebase Firestore
